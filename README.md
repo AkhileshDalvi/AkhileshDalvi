@@ -11,7 +11,7 @@
   
 - 📫 How to reach me _**dalvi.akhilesh123@gmail.com**_
   
-- 🥅 2021 Goals : Contribute more to _**Open Source projects**_
+- 🥅 2022 Goals : Contribute more to _**Open Source projects**_
   
 - ⚡ Fun fact: I love to _**play games & do workout**_
 

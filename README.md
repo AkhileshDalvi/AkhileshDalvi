@@ -4,8 +4,6 @@
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyWHXkzhHyX0M3hZBFu4RmA?label=SUBSCRIBE%20Akhilesh%20Dalvi&style=for-the-badge)](https://www.youtube.com/channel/UCyWHXkzhHyX0M3hZBFu4RmA?sub_confirmation=1)
 
 ## 🙋‍♂️ About Me :
-
-- 🔭 I just started my _**YouTube**_ channel to help fellow traders
   
 - 🌱 I’m currently learning everything 
   

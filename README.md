@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akhilesh</h1>
-<h2 align="center">I'm a Student, Developer and Trader from India.</h2>
+<h2 align="center">I'm a Student & Full Stack Developer from India.</h2>
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCyWHXkzhHyX0M3hZBFu4RmA?label=SUBSCRIBE%20Akhilesh%20Dalvi&style=for-the-badge)](https://www.youtube.com/channel/UCyWHXkzhHyX0M3hZBFu4RmA?sub_confirmation=1)
 

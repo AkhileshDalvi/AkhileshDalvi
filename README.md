@@ -28,8 +28,8 @@
 ## Connect with me :
 
 <p align="left">
-<a href = "https://www.linkedin.com/in/akhilesh-dalvi-04abb5189/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/intent/follow?original_referer=https://github.com/GamingTuBer09&screen_name=GamingTuBer09"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.linkedin.com/in/akhilesh-dalvi/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/intent/follow?original_referer=https://github.com/GamingTuBer09&screen_name=akhilesh_dalvi"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.youtube.com/channel/UCyWHXkzhHyX0M3hZBFu4RmA?sub_confirmation=1"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 </p>
 
@@ -40,7 +40,7 @@
 <a href="https://www.buymeacoffee.com/akhileshdalvi"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="akhileshdalvi" /></a>
 </p>
 
-[twitter]: https://twitter.com/GamingTuBer09
+[twitter]: https://twitter.com/akhilesh_dalvi
 [youtube]: https://www.youtube.com/channel/UCyWHXkzhHyX0M3hZBFu4RmA?sub_confirmation=1
-[linkedin]: https://www.linkedin.com/in/akhilesh-dalvi-04abb5189/
+[linkedin]: https://www.linkedin.com/in/akhilesh-dalvi/
 

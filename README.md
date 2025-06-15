@@ -61,6 +61,7 @@ A web application designed to help users efficiently track and manage their dail
 
 ### Raycast Position Size Calculator
 An intuitive Raycast extension to quickly calculate position sizes for trading.
+
 <a title="Install position-size-calculator Raycast Extension" href="https://www.raycast.com/akhilesh_dalvi/position-size-calculator"><img src="https://www.raycast.com/akhilesh_dalvi/position-size-calculator/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
 
 *(More exciting projects will be added here soon! Feel free to explore my repositories for more.)*

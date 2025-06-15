@@ -24,8 +24,4 @@ Oh, and I also have a Persian kitten named **Marshall** who keeps life interesti
 ## Connect With Me
 - [LinkedIn](https://www.linkedin.com/in/akhilesh-dalvi/)
 
----
-
-![Alt](https://repobeats.axiom.co/api/embed/56bd9345c818bc7ea1a2837788df22d551c42a09.svg "Repobeats analytics image")
-
 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate on something awesome. 🚀

@@ -15,6 +15,8 @@ Oh, and I also have a Persian kitten named **Marshall** who keeps life interesti
 ## Current Projects
 - **Expense Tracker App**: A web application to track daily expenses efficiently.
 
+<a title="Install position-size-calculator Raycast Extension" href="https://www.raycast.com/akhilesh_dalvi/position-size-calculator"><img src="https://www.raycast.com/akhilesh_dalvi/position-size-calculator/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
+
 *(More exciting projects will be added here soon!)*
 
 ## Technologies I Work With
